@@ -9,11 +9,11 @@ el correspondiente seguimiento.
 
 # Integrantes Team 1
 
-Rubén Darío Vargas Jiménez;
-Carlos Andres Soriano Gonzalez; 
-Argemiro Vargas Villareal;
-Alejandro Ardila Quesada;
-Angie Carolina Corredor Cely;
+- Rubén Darío Vargas Jiménez; 
+- Carlos Andres Soriano Gonzalez; 
+- Argemiro Vargas Villareal;
+- Alejandro Ardila Quesada;
+- Angie Carolina Corredor Cely;
 
 # Angie Carolina Corredor Cely
 
