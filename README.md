@@ -16,4 +16,4 @@ Alejandro Ardila Quesada
 
 # Darío Alejandro Ardila Quesada
 
-Soy una persona que le gusta aprender, soy profe de inglés, me encantan la programación y soy un seguidor de Cristo Jesús. Jesus is coming soon.   
+Soy una persona que le gusta aprender, soy profe de inglés, me encantan la programación y soy un seguidor de Cristo Jesús. Jesus is coming soon. Mi rol en este sprint es la ser programador.    
