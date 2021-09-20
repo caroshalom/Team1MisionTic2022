@@ -18,5 +18,5 @@ el correspondiente seguimiento.
 # Angie Carolina Corredor Cely
 
 Angie Carolina es una estudiante de Ingeniería de Software de 26 años apasionada por la tecnología.
-Durante éste primer Sprint asumirá los roles de desarrolladora y de Product Owner.
+Durante éste primer Sprint asumió el rol de Product Owner.
 
