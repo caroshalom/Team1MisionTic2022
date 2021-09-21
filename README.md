@@ -20,3 +20,6 @@ el correspondiente seguimiento.
 Angie Carolina es desarrolladora y estudiante de Ingeniería de Software de 26 años apasionada por la tecnología.
 Durante éste primer Sprint asumió el rol de Product Owner.
 
+# Carlos Andres Soriano Gonzalez
+
+Carlos es estudiante de Mision Tic 2022, apasionado por la lectura y la cultura fisica, con un gusto profundo por la tecnologia y el desarrollo de software. Para este Sprint seré Administrador de Base de datos.
