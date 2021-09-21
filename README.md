@@ -15,8 +15,4 @@ el correspondiente seguimiento.
 - Alejandro Ardila Quesada;
 - Angie Carolina Corredor Cely;
 
-# Angie Carolina Corredor Cely
-
-Angie Carolina es desarrolladora y estudiante de Ingeniería de Software de 26 años apasionada por la tecnología.
-Durante éste primer Sprint asumió el rol de Product Owner.
 
