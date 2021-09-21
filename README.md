@@ -8,4 +8,5 @@ trabajando en una empresa de automatización de
 energías como ingeniero de proyectos en el área 
 de ingeniería. Estoy fortaleciendo mis habilidades 
 en programación e inglés. Me gusta trotar y jugar ajedrez. 
-en este primer sprint voy a desempeñar el rol de Scrum Master.
+en este primer sprint voy a desempeñar el rol de Scrum Master 
+y desarrollador.
