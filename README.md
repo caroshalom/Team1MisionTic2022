@@ -25,33 +25,19 @@ Durante éste primer Sprint asumió el rol de Product Owner.
 Carlos es estudiante de Mision Tic 2022, apasionado por la lectura y la cultura fisica, con un gusto profundo por la tecnologia y el desarrollo de software. Para este Sprint seré Administrador de Base de datos.
 =======
 =======
-<<<<<<< HEAD
 Mi nombre es Rubén Vargas vivo en San Agustín Huila, 
 soy ingeniero en Electrónica y Telecomunicaciones 
 de la universidad del Cauca, actualmente estoy 
 trabajando en una empresa de automatización de 
 energías como ingeniero de proyectos en el área 
 de ingeniería. Estoy fortaleciendo mis habilidades 
-=======
-# Rubén Darío Vargas Jiménez 
-
-Soy ingeniero en Electrónica y Telecomunicaciones 
-de la universidad del Cauca, Estoy fortaleciendo mis habilidades 
->>>>>>> 0c2a2295dffb7077e9e43b7144697174989270bd
 en programación e inglés. Me gusta trotar y jugar ajedrez. 
 en este primer sprint voy a desempeñar el rol de Scrum Master 
 y desarrollador.
 
-<<<<<<< HEAD
 # Darío Alejandro Ardila Quesada
 
 Hello everyone, I am Alejandro, I work in a school as English teacher, I enjoy a lot to learn, although in this right moment I feel frustrate with this sprint 1, about my life I desire to become in a wonderful programmer, I am follower of Jesus Christ, I have a beautiful wife and a cute pet. In this sprint(1) my roles are Analist and Programmer.
 
 # Argemiro Vargas Villareal
 Es ingeniero electrónico, con especialización en Automatización de Procesos Indutriales y Magister en Tecnología Educativa, laborando en la docencia orientado asignaturas como Física y Matemáticas de 33 años apasionada por aprender a usar nuevas herramientas virtuales para afrontar la cuarta revoluación industrial, Durante éste primer Sprint asumió el rol de Administrador de BD y developer.
-=======
-=======
-# Argemiro Vargas Villareal
-Es ingeniero electrónico, con especialización en Automatización de Procesos Indutriales y Magister en Tecnología Educativa, laborando en la docencia orientado asignaturas como Física y Matemáticas de 33 años apasionada por aprender a usar nuevas herramientas virtuales para afrontar la cuarta revoluación industrial, Durante éste primer Sprint asumió el rol de Administrador de BD y developer.
-=======
->>>>>>> 0c2a2295dffb7077e9e43b7144697174989270bd
