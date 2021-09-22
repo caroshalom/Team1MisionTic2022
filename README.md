@@ -32,3 +32,7 @@ de la universidad del Cauca, Estoy fortaleciendo mis habilidades
 en programación e inglés. Me gusta trotar y jugar ajedrez. 
 en este primer sprint voy a desempeñar el rol de Scrum Master 
 y desarrollador.
+
+# Argemiro Vargas Villareal
+Es ingeniero electrónico, con especialización en Automatización de Procesos Indutriales y Magister en Tecnología Educativa, laborando en la docencia orientado asignaturas como Física y Matemáticas de 33 años apasionada por aprender a usar nuevas herramientas virtuales para afrontar la cuarta revoluación industrial, Durante éste primer Sprint asumió el rol de Administrador de BD y developer.
+=======
