@@ -22,7 +22,7 @@ Durante éste primer Sprint asumió el rol de Product Owner.
 
 # Carlos Andres Soriano Gonzalez
 
-Carlos es estudiante de Mision Tic 2022, apasionado por la lectura y la cultura fisica, con un gusto profundo por la tecnologia y el desarrollo de software. Para este Sprint seré Administrador de Base de datos.
+Carlos es estudiante de Mision Tic 2022, apasionado por la lectura y la cultura fisica, me gusta la musica y la tecnologia la tecnologia y el desarrollo de software. Para este Sprint seré Administrador de Base de datos.
 =======
 =======
 Mi nombre es Rubén Vargas vivo en San Agustín Huila, 
